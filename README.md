@@ -1,2 +1,1 @@
-# Hi, I'm Quan. LOCAL change made by Quan for Lab 1 – Git and GitHub.
-
+Hi, I'm Quan. LOCAL and REMOTE changes were resolved for Exercise 5.
